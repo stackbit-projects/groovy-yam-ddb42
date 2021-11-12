@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       BlueCompute provides both Cloud Based Software and Services for various
       industries. Our newest software RevealNext is a cloud based Reporting
-      Solution.
+      Solution build on Native Cloud. No Software Install Required!
     actions:
       - label: Learn More
         url: /features
