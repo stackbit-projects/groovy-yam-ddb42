@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: SOFTWARE & SERVICES One-stop-shop!
+    title: Innovative Software/Clousd Services. One-stop-shop!
     subtitle: >-
       BlueCompute provides both Cloud Based Software and Services for various
       industries. Our newest software RevealNext is a cloud based Reporting
