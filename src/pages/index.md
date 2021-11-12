@@ -43,10 +43,13 @@ sections:
             url: /features
             style: secondary
       - title: Blue Yonder Category Management Software Support
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Space and Category Management software is both a significant
+          investment and an integral component of a successful supply chain. We
+          implement leading-edge space and category management tools, fine tune
+          existing software, and help plan for future upgrades. Ask us about
+          writing Space Automation Scripts for you.
+
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
