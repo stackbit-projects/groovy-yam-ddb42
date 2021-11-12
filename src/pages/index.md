@@ -59,10 +59,9 @@ sections:
             url: /features
             style: secondary
       - title: Application Modernization
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Modernize your applications to innovate quickly using cloud-native
+          architecture that truly maximizes the benefits of the cloud. 
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
