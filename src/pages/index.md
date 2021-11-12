@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: SERVICES & SOFTWARE
+    title: SERVICES & SOFTWARE One-shop-stop!
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
