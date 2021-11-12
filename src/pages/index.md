@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: SERVICES & SOFTWARE One-shop-stop!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      BlueCompute provides both Cloud Based Software and Services for various
+      industries. Our newest software RevealNext is a cloud based Reporting
+      Solution.
     actions:
       - label: Learn More
         url: /features
