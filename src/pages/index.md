@@ -28,7 +28,7 @@ sections:
   - type: features_section
     title: Software & Services
     features:
-      - title: RevealNext
+      - title: RevealNext - Unlock & Analyze Planograms in minutes
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
