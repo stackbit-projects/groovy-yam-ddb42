@@ -30,10 +30,10 @@ sections:
     features:
       - title: RevealNext - Unlock & Analyze Planograms in minutes
         content: >
-          RevealNext is an fast performance Category Management Reporting
-          solution. It can extract (JDA) Blue Yonder PSA Files or PDF Files
-          extremely FAST to create aggregate/comparsion reporting. No IT Support
-          or Database needed!
+          RevealNext is our newest Cloud Platform- A fast performance Category
+          Management Reporting solution. It can extract (JDA) Blue Yonder PSA
+          Files or PDF Files extremely FAST to create aggregate/comparison
+          reporting. No IT Support or Database needed!
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
