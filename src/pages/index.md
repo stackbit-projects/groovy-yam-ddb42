@@ -53,7 +53,7 @@ sections:
 
         align: left
         image: >-
-          images/kisspng-technical-support-computer-software-custom-softwar-5af303c90310f5.6714851415258756570126.jpg
+          images/kisspng-technical-support-computer-software-custom-softwar-5af303c90310f5.6714851415258756570126-55b9843d.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
