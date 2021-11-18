@@ -52,7 +52,8 @@ sections:
           writing Space Automation Scripts for you.
 
         align: left
-        image: images/feature.svg
+        image: >-
+          images/kisspng-technical-support-computer-software-custom-softwar-5af303c90310f5.6714851415258756570126.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
