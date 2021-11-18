@@ -35,7 +35,8 @@ sections:
           Files or PDF Files extremely FAST to create aggregate/comparison
           reporting. No IT Dept or Database needed!
         align: left
-        image: images/feature.svg
+        image: >-
+          images/519-5191786_financial-services-software-platform-computer-icon-hd-png.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
