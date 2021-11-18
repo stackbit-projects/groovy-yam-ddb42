@@ -65,7 +65,7 @@ sections:
           Modernize your applications to innovate quickly using cloud-native
           architecture that truly maximizes the benefits of the cloud. 
         align: left
-        image: images/feature.svg
+        image: images/Application-Modernization.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
