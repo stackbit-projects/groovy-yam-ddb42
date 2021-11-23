@@ -28,10 +28,7 @@ sections:
             url: /style-guide
             style: primary
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: "•\tCompatible with other planogram files\r \\- You can now import other planogram files to BlueCompute POG\n\n\r\n•\tCustom Analytic Reports\r \\- Generate various reports to gain insights into your sales patterns & customer behavior\n\n\r\n•\tEasy Compliance\r \\- Just click & post easy store-planogram compliance management system\n\n\r\n•\tProduct Groups\r \\- Group products easily based on different product attributes & automate rules\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
