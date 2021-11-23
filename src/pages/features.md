@@ -25,7 +25,7 @@ sections:
         image_position: left
         actions:
           - label: 'Learn '
-            url: /style-guide
+            url: /services
             style: primary
       - title: "Analytical and\_Scalable"
         content: "• Generates Intelligent Dashboards  & Insights\n\n\r\n• Data Extracts for Enterprise  Reporting\n\n\r\n• Comparative POG aggregate  performance across projects\n\n• Fast Cloud based processing (1000’s of planograms within minutes)\n\n\r\n• Multi Level Reporting Data\n\n\r\n• Task based User Access• Easy to understand work streams\n"
