@@ -35,7 +35,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /ser
+            url: /services
             style: primary
 seo:
   title: Features
