@@ -28,10 +28,7 @@ sections:
             url: /style-guide
             style: primary
       - title: "Analytical and\_Scalable"
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: "• Generates Intelligent Dashboards  & Insights\n\n\r\n• Data Extracts for Enterprise  Reporting\n\n\r\n• Comparative POG aggregate  performance across projects\n\n• Fast Cloud based processing (1000’s of planograms within minutes)\n\n\r\n• Multi Level Reporting Data\n\n\r\n• Task based User Access• Easy to understand work streams\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
