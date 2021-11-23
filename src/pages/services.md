@@ -8,10 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "\n\n\n**•\tHuge cost-benefit -  **Very affordable pricing and practical licensing models to ensure full value for your money\n\n\r\n**•\tCloud-based planogram - **Seamless access to planogram software using a browser and internet\n\n\r\n**•\tUnlimited licenses - **With our unlimited licensing model we encourage everyone in your organization to use planograms\n\n\r\n**•\tBulk upload of image library - **Any number and format of product images can be easily uploaded to the product library\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n·\_\_\_\_\_\_\_\_\nHuge cost\nbenefit\n\nVery affordable pricing and\npractical licensing models to ensure full value for your money\n\n·\_\_\_\_\_\_\_\_\nCloud based\nplanogram\n\nSeamless access to planogram\nsoftware using a browser and internet\n\n·\_\_\_\_\_\_\_\_\nUnlimited\nlicenses\n\nWith our unlimited licensing\nmodel we encourage everyone in your organization to use planograms\n\n·\_\_\_\_\_\_\_\_\nBulk upload\nof image library\n\nAny number and format of product\nimages can be easily uploaded to the product library\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
