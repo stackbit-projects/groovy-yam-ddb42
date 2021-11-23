@@ -18,10 +18,7 @@ sections:
             url: /about
             style: primary
       - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "• Easy access with cloud based platform\n\n\r\n•Works with existing Planogram Software\n\n\r\n•Unlock Planogram Data in minutes\n\n\r\n• Built In Data Validation & Clean-up\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
