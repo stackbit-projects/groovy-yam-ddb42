@@ -5,19 +5,7 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: "We are BlueCompute. Planogramming isn't a new concept but BlueCompute has made it look new with its innovative ideas of planogramming by redefining the way you structure your sales using planograms. Many retailers, suppliers, and manufacturers struggle in one way or the other with store-level execution of products to achieve adequate in-store visibility. Most of which can be resolved by strategic category management or shelf space planning, which BlueCompute helps you to do so.\n\n\r\nBlueCompute POG is an easy, powerful, and affordable web-based planogram builder. This planogram software is easy to learn and use. It provides optimum, store-specific planograms that will increase product visibility and thereby boost your sales.\n"
   - type: team_section
     title: Our Team
     team:
