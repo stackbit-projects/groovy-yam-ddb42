@@ -3,7 +3,16 @@ title: Features
 sections:
   - type: hero_section
     title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      BlueCompute is powerful planogram
+
+      software for visual merchandising. It is a cloud-based planogram builder
+      that
+
+      requires no installation process and other associated setups or
+      configuration
+
+      complications. You can access your planograms from anywhere at any time.
     align: center
   - type: features_section
     features:
