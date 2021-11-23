@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Features
+    title: Our Services
     subtitle: "With BlueCompute,\nplanogramming is made fast and easy. With its advanced features one can do\nplanogramming with minimal effort. \_There\nare Customizable templates, manual and automated modes, shelf compliance are\nfew of the features incorporated in BlueCompute POG that make planogramming\neasy, fast and effective. BlueCompute has unlimited licensing models with\nmultiple user access which makes it one of the most cost-effective visual\nmerchandising planograms. It has a vast array of features that equip you to\nanalyze the sales patterns, manage your product library and implement your\nvisual merchandising the most effective way."
     align: center
   - type: features_section
