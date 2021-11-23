@@ -8,10 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Challenges
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "•\tTime consuming and manual process\n\n\r\n•\tRequires extensive IT Expertise \n\n\r\n•\t Product Data cannot be matched/validated easily to Master Data\n\n\r\n•\t Analysis using applications used to build planograms has  limitations\n\n\r\nBut yet we have ways to solve them easily. We have innovative, analytical and scalable ways to solve them.\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
