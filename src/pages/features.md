@@ -17,7 +17,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Feature 2
+      - title: Innovative
         content: "• Easy access with cloud based platform\n\n\r\n•Works with existing Planogram Software\n\n\r\n•Unlock Planogram Data in minutes\n\n\r\n• Built In Data Validation & Clean-up\n"
         align: left
         image: images/feature.svg
