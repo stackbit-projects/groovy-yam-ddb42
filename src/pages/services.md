@@ -25,7 +25,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /
+            url: /features
             style: primary
       - title: Feature 3
         content: "•\tCompatible with other planogram files\r \\- You can now import other planogram files to BlueCompute POG\n\n\r\n•\tCustom Analytic Reports\r \\- Generate various reports to gain insights into your sales patterns & customer behavior\n\n\r\n•\tEasy Compliance\r \\- Just click & post easy store-planogram compliance management system\n\n\r\n•\tProduct Groups\r \\- Group products easily based on different product attributes & automate rules\n"
