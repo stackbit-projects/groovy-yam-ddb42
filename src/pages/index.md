@@ -41,7 +41,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /services
             style: secondary
       - title: Blue Yonder Category Management Software Support
         content: >+
