@@ -58,7 +58,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /features
+            url: /about
             style: secondary
       - title: Application Modernization
         content: >
