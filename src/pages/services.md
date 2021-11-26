@@ -35,7 +35,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /
+            url: /blog
             style: primary
 seo:
   title: Features
