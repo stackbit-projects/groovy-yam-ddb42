@@ -79,8 +79,8 @@ sections:
   - type: cta_section
     title: How Can We Help?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      With our expert team, we ensure the quality service and satisfied results.
+      We will help you to take your business to the deserving level.
     actions:
       - label: Learn More
         url: /features
