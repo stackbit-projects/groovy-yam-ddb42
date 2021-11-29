@@ -8,7 +8,7 @@ categories:
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
+image: images/images (1).jpg
 image_alt: Post 4 placeholder image
 excerpt: >-
   There has been rapid growth in the Internet of Things (IoT) and big data
