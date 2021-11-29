@@ -5,8 +5,7 @@ categories: []
 tags:
   - Stackbit
   - Netlify
-image: >-
-  images/Not-All-Cloud-Computing-Services-are-the-Same-Three-Levels-of-Cloud-Service-1920.jpg
+image: images/logo 123-b476eb27.jpg
 image_alt: Post 5 placeholder image
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
