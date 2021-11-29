@@ -5,7 +5,8 @@ categories: []
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: >-
+  images/Not-All-Cloud-Computing-Services-are-the-Same-Three-Levels-of-Cloud-Service-1920-1bccd645.jpg
 image_alt: Post 3 placeholder image
 excerpt: >-
   System integration solutions are important as they can provide your business
