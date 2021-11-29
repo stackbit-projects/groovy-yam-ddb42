@@ -11,9 +11,10 @@ tags:
 image: images/4.png
 image_alt: Post 4 placeholder image
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  There has been rapid growth in the Internet of Things (IoT) and big data
+  technologies amongst organizations and individuals. According to Forbes, it
+  has been predicted that the amount of data generated will increase to 175
+  zettabytes by 2025.
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
