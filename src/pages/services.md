@@ -10,7 +10,7 @@ sections:
       - title: Feature 1
         content: "•\tHuge cost-benefit -  Very affordable pricing and practical licensing models to ensure full value for your money\n\n•\tCloud-based planogram - Seamless access to planogram software using a browser and internet\n\n•\tUnlimited licenses - With our unlimited licensing model we encourage everyone in your organization to use planograms\n\n•\tBulk upload of image library - Any number and format of product images can be easily uploaded to the product library\n"
         align: left
-        image: images/feature.svg
+        image: images/Cloud-services-post-wherein-guate.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
