@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: The Ultimate Guide to Cloud Enablement for Enterprises
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:
