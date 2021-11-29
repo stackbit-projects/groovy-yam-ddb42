@@ -1,6 +1,6 @@
 ---
 title: Is System Integration Important?
-date: '2020-05-28'
+date: '2021-11-29'
 categories: []
 tags:
   - Stackbit
