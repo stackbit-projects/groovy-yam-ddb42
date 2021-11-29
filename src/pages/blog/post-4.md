@@ -2,8 +2,7 @@
 title: How are Big Data and IoT Interrelated
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
-categories:
-  - src/data/categories/news.yaml
+categories: []
 tags:
   - JAMstack
   - Sourcebit
