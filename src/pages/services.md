@@ -20,7 +20,7 @@ sections:
       - title: Feature 2
         content: "•\tWeb based sharing features\r \\- Secure sharing of planograms to anyone including external users\n\n\r\n•\tMulti-device & browser compatibility\r \\- Use it from desktop, laptop tablet or mobile devices to easily create planograms online\n\n\r\n•\tCustomizable Templates\r \\- Customizable pre-defined templates to create planograms easily with minimal errors\n\n\r\n•\tAutomated planograms\r \\- Define a rule and automate planogram creation\n"
         align: left
-        image: images/feature.svg
+        image: images/cloud-services-1617685300-5779464.jpeg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
