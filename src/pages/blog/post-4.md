@@ -1,6 +1,6 @@
 ---
 title: How are Big Data and IoT Interrelated
-date: '2020-05-30'
+date: '2021-11-29'
 categories: []
 tags:
   - JAMstack
