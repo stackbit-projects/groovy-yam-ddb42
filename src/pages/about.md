@@ -15,7 +15,7 @@ sections:
       - src/data/team/hanson-deck.yaml
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: We are just one click away
     actions:
       - label: Contact Us
         url: /contact
