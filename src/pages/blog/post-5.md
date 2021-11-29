@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Guide to Cloud Enablement for Enterprises
-date: '2020-06-02'
+date: '2021-11-29'
 categories: []
 tags:
   - Stackbit
