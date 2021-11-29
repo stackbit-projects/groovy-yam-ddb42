@@ -1,7 +1,5 @@
 ---
-title: |-
-  Data
-  Migration Services
+title: Migration Services
 seo:
   title: ''
   description: ''
