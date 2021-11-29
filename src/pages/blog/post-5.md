@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/logo 123.jpg
 image_alt: Post 5 placeholder image
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
